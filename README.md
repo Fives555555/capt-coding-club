@@ -30,4 +30,4 @@ We will choose the topic for the following week at the end of each session.
 
 *If you wish to suggest more topics, please bring this up at the next CCC or email me below!*
 
-### For access or permissions, please contact: [bradley.march@nottingham.ac.uk](mailto:bradley.march@nottingham.ac.uk)
+### For access or permissions, please contact: [lauren.gaughan@nottingham.ac.uk](mailto:lauren.gaughan@nottingham.ac.uk)
