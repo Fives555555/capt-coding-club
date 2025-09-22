@@ -10,6 +10,9 @@
 - [ms-toolsai.datawrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) allows you to open variables and scroll through a table containing their data (similar to Spyder variable explorer)
 - [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks) lets you quickly travel between bookmarked code from side tab
 - [gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) allows you to create TODO comments and track TODO items
+- [njpwerner.autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) automatically generates docstrings for Python functions
+- [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) allows you to track projects more easily (looks at VS Code Workspaces, folders, Git etc.)
+- [KevinRose.vsc-python-indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) gives proper Python indentation in VS Code
 
 ### Git related extensions
 - [github.copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) allows copilot integration inside your editor
@@ -22,7 +25,6 @@
 - [ms-python.autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8) automatically applies PEP8 coding standard everytime you save
 - [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) flags extra (possible) errors in your code
 - [streetsidesoftware.code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) spell checks your variable names and comments
-
 
 ### LaTeX extensions
 - [mathematic.vscode-latex](https://marketplace.visualstudio.com/items?itemName=mathematic.vscode-latex) allows you to use TeX on VS Code (need a local install of TeX)
@@ -37,6 +39,7 @@
 
 ### FUN!
 - [tonybaloney.vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) errm, they're cute I guess?
+- [geekanant.chrome-dinosaur-game](https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game) for if you're bored?
 
 # Please suggest more extensions that you love!
 
