@@ -27,6 +27,8 @@ A range of topics has been proposed by members, and we plan to cover these over 
 - How Does Code *Actually* Work 
 - Coding for Industry
 - Optimisation / Parallelisation
+- Object-Oriented Programming
+- Working with large codebases
 - Jupyter Notebooks -> nbdev
 
 If you need to quickly learn the basics of a language, try here: [Learn X in Y minutes](https://learnxinyminutes.com/)
