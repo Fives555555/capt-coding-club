@@ -13,13 +13,13 @@ A range of topics has been proposed by members, and we plan to cover these over 
 
 - Linux
 - Git/GitHub
-- VS Code
-- SSH 
+- SSH
 - Connecting and Using Captain/Ohdar
+- Using the HPC
+- VS Code
 - Making NumPy Fast
 - Making Matplotlib Pretty
 - Coding Standards
-- Using the HPC
 - Astropy (Opening Catalogues and .fits Files)
 - Pandas / Data Science / Machine Learning
 - MCMC Sampling / Bayesian Inference
@@ -28,6 +28,7 @@ A range of topics has been proposed by members, and we plan to cover these over 
 - Coding for Industry
 - Optimisation / Parallelisation
 - Object-Oriented Programming
+- Data structures and algorithms
 - Working with large codebases
 - Jupyter Notebooks -> nbdev
 
