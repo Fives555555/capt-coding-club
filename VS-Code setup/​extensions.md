@@ -5,14 +5,17 @@
 
 ### Very useful extensions
 - [ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) required to SSH into Captain/ODHAR/your own desktop
+- [spadin.remote-x11](https://marketplace.visualstudio.com/items?itemName=spadin.remote-x11) forwards remotely generated graphs to laptop
 - [tomoki1207.pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) required to open .pdf files inside VS Code
 - [mutantdino.resourcemonitor](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor) adds PC resources (CPU, RAM, etc.) to status bar
 - [ms-toolsai.datawrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler) allows you to open variables and scroll through a table containing their data (similar to Spyder variable explorer)
 - [alefragnani.bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks) lets you quickly travel between bookmarked code from side tab
 - [gruntfuggly.todo-tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) allows you to create TODO comments and track TODO items
+- [wayou.vscode-todo-highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) highlights TODO, FIXME and other annotations in code
 - [njpwerner.autodocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) automatically generates docstrings for Python functions
 - [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) allows you to track projects more easily (looks at VS Code Workspaces, folders, Git etc.)
 - [KevinRose.vsc-python-indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) gives proper Python indentation in VS Code
+- [ms-toolsai.jupyter-keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap) keymaps for VS Code to match Jupyter Notebook keybindings
 
 ### Git related extensions
 - [github.copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) allows copilot integration inside your editor
