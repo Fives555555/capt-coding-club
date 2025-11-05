@@ -4,7 +4,7 @@ Mathematica is a Swiss army knife for mathsy computations. It has lots of built-
 
 ## Documentation
 
-There are [docs online](https://reference.wolfram.com/language/), which can be accessed directly within Mathematica by hovering over the unknown element, or by clicking on Help. There is also a [Mathematica Stack Exchange](https://mathematica.stackexchange.com/), and on arXiv a helpful resource called [Using Mathematica for Quantum Mechanics: A Student's Manual](https://arxiv.org/abs/1403.7050).
+There are [docs online](https://reference.wolfram.com/language/), which can be accessed directly within Mathematica by hovering over the unknown element, or by clicking on Help. Guides are available on the [Wolfram website](https://www.wolfram.com/language/fast-introduction-for-math-students/en///). There is also a [Mathematica Stack Exchange](https://mathematica.stackexchange.com/), and on arXiv a helpful resource called [Using Mathematica for Quantum Mechanics: A Student's Manual](https://arxiv.org/abs/1403.7050).
 
 ## Installation
 
