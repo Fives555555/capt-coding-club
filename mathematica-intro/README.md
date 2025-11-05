@@ -2,6 +2,10 @@
 
 Mathematica is a Swiss army knife for mathsy computations. It has lots of built-in functionality and is often a great place to start doing any calculation, but IMO it is not going to be fast or convenient for heavy computations or for writing complicated programs. It is also closed source and requires an expensive license to run.
 
+## Documentation
+
+There are [docs online](https://reference.wolfram.com/language/), which can be accessed directly within Mathematica by hovering over the unknown element, or by clicking on Help. There is also a [Mathematica Stack Exchange](https://mathematica.stackexchange.com/), and on arXiv a helpful resource called [Using Mathematica for Quantum Mechanics: A Student's Manual](https://arxiv.org/abs/1403.7050).
+
 ## Installation
 
 The University of Nottingham has Mathematica server licenses which allow you to run it at work, or through the VPN. For more information see the [UoN Workspace documentation on Mathematica](https://workspace.nottingham.ac.uk/display/Software/Mathematica) and the [UoN VPN documentation](https://www.nottingham.ac.uk/dts/communications/remote-working/vpn.aspx).
@@ -33,10 +37,6 @@ ClearAll[x]
 Quit[]
 ```
 The former clears what is associated with the variable `x`, the latter "quits the kernel" and so clears everything.
-
-## Documentation
-
-There are [docs online](https://reference.wolfram.com/language/), which can be accessed directly within Mathematica by hovering over the unknown element, or by clicking on Help. There is also a [Mathematica Stack Exchange](https://mathematica.stackexchange.com/), and on arXiv a helpful resource called [Using Mathematica for Quantum Mechanics: A Student's Manual](https://arxiv.org/abs/1403.7050).
 
 ## Examples
 
