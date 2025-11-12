@@ -1,10 +1,10 @@
 ### Pandas Useful Links
 
-[https://pandas.pydata.org/](Pandas website)
+[Pandas website](https://pandas.pydata.org/)
 
-[https://pandas.pydata.org/docs/getting_started/install.html](Installation and getting started guide) 
+[Installation and getting started guide](https://pandas.pydata.org/docs/getting_started/install.html)
 
-[https://pandas.pydata.org/docs/user_guide/index.html](In-depth Pandas user guide)
+[In-depth Pandas user guide](https://pandas.pydata.org/docs/user_guide/index.html)
 
-[https://pandas.pydata.org/docs/user_guide/cookbook.html](Pandas cookbook containing useful examples)
+[Pandas cookbook containing useful examples](https://pandas.pydata.org/docs/user_guide/cookbook.html)
 
