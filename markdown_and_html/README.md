@@ -5,6 +5,10 @@ Try looking at the raw files of READMEs on GitHub for insight into how they work
 
 Here is a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
+Some extended cheatsheets:
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+
 
 ## HTML
 HTML contains content of webpages and helps to structure it. It has ways of formatting text, images, links, etc. so it can be rendered by web browsers.
