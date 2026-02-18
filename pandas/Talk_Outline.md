@@ -1,0 +1,74 @@
+### Introduction to Pandas 
+- Importing Data 
+  - CSV Files 
+  - Dictionaries 
+  - JSON Files 
+- Load Compressed file in Python 
+  - Pickle Files 
+- Working with DataFrames 
+- Working with DataFrame Indices 
+- Inspecting DataFrames 
+- Sorting 
+- Working with Columns 
+  - Adding Columns 
+  - Dropping Columns 
+  - Dropping Rows 
+  - Splitting Strings 
+  - Recasting Data 
+  - Access a substring in a Series 
+  - Replacing String Characters 
+    - Rename a Series 
+    - Determine the unique values in a column 
+  - Replacing Column Values 
+- Concatenating 
+  - Concatenating DataFrames 
+  - Concatenating Series 
+- Saving a DataFrame as a CSV 
+
+### Pandas Advanced Usage
+- Calculate Summary Statistics for a DataFrame or Series 
+- Select a Series from a DataFrame 
+- Subset a DataFrame by Selecting One or More Columns 
+- Subset the Columns of a DataFrame Based on Data Types 
+- Working with value_counts in a Series 
+- Series and Groupby 
+- Subset a DataFrame's Columns Based on the Column Data Types 
+- Subset a DataFrame's columns based on column names 
+  - Pivot Tables 
+- Subsetting with Masks 
+  - Reshape a DataFrame based on column values 
+  - What's a pivot table? 
+  - Combine multiple categories in a Series 
+- Cross Tabulation 
+- Applying Functions to DataFrames and Series 
+- Working with Dates 
+  - Time Stamps 
+  - Date Time Indices 
+  - Date Ranges 
+
+### Pandas Summary statistics
+- Descriptive Statistics 
+  - Quartiles 
+  - Series 
+  - The Mean 
+  - Skewed Distributions 
+  - Variance 
+  - Standard Deviation 
+  - Outliers 
+  - Categorical Data 
+  - Location Data 
+  - Numerical Data 
+- Summary Statistics 
+  - Summary Statistics 
+  - Working with Summary Statistics 
+- Calculate the Quantiles for a Series 
+  - Quartiles 
+- Correlations 
+- Correlation Matrices 
+
+### Plotting in Pandas
+- Bar Charts 
+- Histograms 
+- Scatter Plots 
+- Line Plots 
+- References & Further Reading 
